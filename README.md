@@ -1,4 +1,4 @@
-## Olá! Eu sou o Giulianno Lechinski Ramos
+## Olá! Eu sou o Lóiz! :D
  
 - 🌱 Estudando C#, Javascript, HTML e CSS.
 <div align="center">
